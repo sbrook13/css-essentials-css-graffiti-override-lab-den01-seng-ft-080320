@@ -13,7 +13,7 @@ body div#wall #tag-3.slick {
 }
 
 /* tag-4 */  
-.parent #tag-4 {
+#wall .parent #tag-4 {
   display: none;
 }
 
