@@ -8,7 +8,7 @@ body #wall #tag-2 {
 }
 
 /* tag-3 */  
-body #wall #tag-3.slick {
+body #wall #tag-3[class="slick"] {
   display: none;
 }
 
