@@ -18,7 +18,7 @@ body div#wall #tag-3.slick {
 }
 
 /* tag-5 */
-div[class="slick"] {
+body div#wall div.parent #tag-5.slick {
   display: none;
 }
 div[class="slick wicked"] {
